@@ -1,0 +1,1 @@
+Pequeño programa que indica si un número random es mayor o menor que 0.5
